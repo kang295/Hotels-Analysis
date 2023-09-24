@@ -1,2 +1,2 @@
 # Hotels-Analysis
-This is a hotels data analysis project
+This project presents a comprehensive data analysis utilizing hotel-related datasets
